@@ -1,4 +1,4 @@
-### Project 2: Lexer, Parser, Interpreter
+### Assignment 5: Lexer, Parser, Interpreter
 
 ##### Due Monday 11/14 at the start of class.
 
