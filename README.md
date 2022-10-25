@@ -1,6 +1,6 @@
 ### Project 2: Lexer, Parser, Interpreter
 
-##### Due Monday 11/15 at the start of class.
+##### Due Monday 11/14 at the start of class.
 
 This homework will be graded using specifications grading. There are a sequence of tasks to complete. Grades will be assigned as follows:
 
